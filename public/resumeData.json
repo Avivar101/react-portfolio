@@ -3,19 +3,19 @@
     "name": "Okezie Ben John",
     "occupation": "ReactJS Developer",
     "description": "Greatest React Developer of all time",
-    "image": "me.jpg",
+    "image": "me3.jpg",
     "bio": "My name is Ben, I'm a ReactJS Beginner. Currently learning ReactJS so my description would be a testament to itself ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "benjaminokezie.ob@gmail.com",
     "phone": "+234-9068762493",
     "address": {
       "street": "Gaduwa Estate",
-      "city": "FCT",
-      "state": "Abuja",
+      "city": "Abuja",
+      "state": "FCT",
       "zip": "900104"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "www.linkedin.com/in/viral-planet-0a90371a4",
+    "resumedownload": "www.linkedin.com/in/viral-planet-0a90371a4",
     "social": [
       {
         "name": "facebook",
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/viral-planet/",
+        "url": "www.linkedin.com/in/viral-planet-0a90371a4",
         "className": "fa fa-linkedin"
       },
       {

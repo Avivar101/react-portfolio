@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/nathan-dumlao.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -179,7 +179,9 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
+ul#nav li a:hover {color: rgba(255, 255, 255, 0.575);}
 ul#nav li.current a { color: #F06000; }
+
 
 
 /* ------------------------------------------------------------------ */
