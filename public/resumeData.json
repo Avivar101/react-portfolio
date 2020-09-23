@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Okezie Ben John",
-    "occupation": "ReactJS Developer",
-    "description": "Greatest React Developer of all time",
+    "occupation": "Web Developer",
+    "description": "FrontEnd Developer",
     "image": "me3.jpg",
-    "bio": "My name is Ben, I'm a ReactJS Beginner. Currently learning ReactJS so my description would be a testament to itself ",
+    "bio": "My name is Ben, I'm a VueJS Beginner. Currently learning and working with VueJS",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "benjaminokezie.ob@gmail.com",
     "phone": "+234-9068762493",
@@ -46,10 +46,10 @@
     ],
     "work": [
       {
-        "company": "Ben's Inc & Co",
-        "title": "CEO",
-        "years": "April 2002 - Present",
-        "description": "Doing A lot of things for the best of the World."
+        "company": "FsatckDev",
+        "title": "Intern",
+        "years": "2020",
+        "description": "Learning."
       }
     ],
     "skills": [
@@ -59,15 +59,15 @@
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "70%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "40%"
       },
       {
         "name": "VueJs",
-        "level": "55%"
+        "level": "45%"
       },
       {
         "name": "HTML5",
@@ -75,7 +75,7 @@
       },
       {
         "name": "FireBase",
-        "level": "80%"
+        "level": "25%"
       }
     ]
   },
@@ -86,18 +86,24 @@
         "category": "A Dummy E-commerce store built with VueJs (FireBase, Netlify)",
         "image": "helloworld.png",
         "url": "https://itsadummy.netlify.app/"
+      },
+      {
+        "title": "Amazon-store Clone",
+        "category": "An Amazon clone with ReactJs (FireBase)",
+        "image": "amazon.PNG",
+        "url": "https://challenge-830e6.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "He is a very dedicated and hardworking fellow, i see him to be a very great figure in future.",
-        "user": "Steve Jobs"
+        "text": "",
+        "user": ""
       },
       {
-        "text": "I have never seen someone with as musch spirit as this young man, he is one of the best i've ever worked with",
-        "user": "Steve Wozniak... impersonator"
+        "text": "",
+        "user": ""
       }
     ]
   }
