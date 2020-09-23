@@ -92,6 +92,12 @@
         "category": "An Amazon clone with ReactJs (FireBase)",
         "image": "amazon.PNG",
         "url": "https://challenge-830e6.web.app/"
+      },
+      {
+        "title": "PureWeb Clone",
+        "category": "A web clone with VueJs !unresponsive (FireBase)",
+        "image": "pureWeb.PNG",
+        "url": "https://pureweb.netlify.app/"
       }
     ]
   },
