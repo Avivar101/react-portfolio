@@ -54,8 +54,8 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "1%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
         "name": "CSS",
@@ -70,12 +70,12 @@
         "level": "45%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "FireBase",
+        "level": "20%"
       },
       {
-        "name": "FireBase",
-        "level": "25%"
+        "name": "ReactJs",
+        "level": "5%"
       }
     ]
   },
